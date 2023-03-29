@@ -1,0 +1,5 @@
+print("EJEMPLOS DE OPERACIONES ARITMETICAS")
+numero1=input("Introduzca un numero1:")
+numero2=input("Introduzca un numero2:")
+resultado=float(numero1)+int(numero2)
+print(resultado)

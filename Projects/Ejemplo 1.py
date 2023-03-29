@@ -1,0 +1,5 @@
+print("-------EJEMPLO DE SUMA ENTEROS------------")
+numero1=input("Introduzca numero1:")
+numero2=input("Introduzca numero2:")
+resultado=int(numero1)+int(numero2)
+print("Este es el resultado: ",resultado)
